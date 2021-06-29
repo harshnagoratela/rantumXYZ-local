@@ -5,13 +5,15 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import SVGIcon from '../components/SVGIcon'
+import Gallery from '../components/Gallery'
 
 // Export Template for use in CMS preview
 export const DefaultPageTemplate = ({
   title,
   subtitle,
   featuredImage,
-  body
+  body,
+  gallery
 }) => (
   <main className="DefaultPage">
     <PageHeader
@@ -23,7 +25,14 @@ export const DefaultPageTemplate = ({
     <section className="section">
       <div className="container">
         <Content source={body} />
-        <SVGIcon src="/images/calendar.svg" />
+
+      </div>
+    </section>
+
+    <section className="section">
+      <div className="container">
+        
+        <Gallery images={gallery} />
       </div>
     </section>
   </main>
