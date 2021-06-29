@@ -1,7 +1,9 @@
 ---
 template: BlogIndex
-title: Updates
-subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+title: Notes
+subtitle: Notes & brief wrtings about NFTs, digital art, DAOs, & blockchain commerce
+featuredImage: https://ucarecdn.com/68ea98c9-ac48-4daf-82a7-02b175268f40/-/crop/2400x814/0,1123/-/preview/
+meta:
+  title: Notes & short blog posts about NFTs, digital art, DAOs, & blockchain commerce
+  description: Notes & short blog posts about NFTs, digital art, DAOs, & blockchain commerce
 ---
-
