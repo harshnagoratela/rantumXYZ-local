@@ -1,10 +1,11 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: News & Notes
+featuredImage: https://ucarecdn.com/4bbe0e1b-4814-4910-b1be-2968822a12dd/-/crop/1998x898/0,181/-/preview/
+subtitle: On digital art, NFTs, and other blockchain developments
 meta:
-  description: This is a meta description.
+  description: "On digital art, NFTs, and other blockchain developments. Get info
+    on non-fungible tokens, art on the blockchain, blockchain data, and more. "
   title: Blog Page
 ---
