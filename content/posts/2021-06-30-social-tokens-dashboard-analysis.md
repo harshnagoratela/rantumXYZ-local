@@ -23,8 +23,6 @@ I recently developed a [Social Tokens Analytics Dashboard](https://duneanalytics
 
 With the help of Forefront contributor [Jihad](https://twitter.com/jaesmail), we co-authored an accompanying article, which has been published on mirror. Here's an excerpt from the article, [Social Tokens have grown over 400% in 2021](https://ff.mirror.xyz/XFuXL8vVZtk3kTldgS6VlDc5Y6uKpfxGJsQ5MECa1Rc): 
 
-> <!--StartFragment-->
->
 > Over 16,000 wallets now hold social tokens, with over 10,000 new wallets introducing social tokens since the beginning of this year. Since August 2020, the number of wallets holding $FF tracked tokens has grown over 1400%, while the number of tokens tracked increased from 9 to 25. While Forefront doesn’t track every token in the space, the growth here is indicative of much larger trends across the ecosystem.
->
-> <!--EndFragment-->
+
+Read the full article at [Forefront's Mirror.xyz site](https://ff.mirror.xyz/XFuXL8vVZtk3kTldgS6VlDc5Y6uKpfxGJsQ5MECa1Rc), and check out the [Social Tokens Dashboard on Dune Analytics](https://duneanalytics.com/rantum/Social-Tokens).
