@@ -14,7 +14,7 @@ categories:
 ---
 Unity and dispersion exist in a relative dichotomy, and in Generative Artworks upcoming project, the team explores a style quite different from their first project. While *[Empyrean ](https://www.artblocks.io/project/33)*featured soft, amorphous lines on dark backgrounds, Enchiridion relies on a series of rectangular shapes linked together in vibrant color patterns.
 
-The contrast in style is by design. *Enchiridion* is influenced by Enchiridion Physicae Restitutae by Jean D'Espagnet, which rejected the idea of the empyrean. Enchiridion represents the idea that all natural things exist in unity through a series of linked geometric shapes.
+The contrast in style is by design. [*Enchiridion* ](https://artblocks.io/project/101)is influenced by Enchiridion Physicae Restitutae by Jean D'Espagnet, which rejected the idea of the empyrean. Enchiridion represents the idea that all natural things exist in unity through a series of linked geometric shapes.
 
 Generative Artworks is a collaborative effort between former college roommates, Alex and Stephen. They’ve worked together for years, beginning with an idea of making individually unique t-shirts by printing a generative artwork on each shirt. That idea lead them to building an Instagram following for their work, and eventually to NFTs and a meeting with Snowfro, who quickly sold them on the idea behind Art Blocks.
 
