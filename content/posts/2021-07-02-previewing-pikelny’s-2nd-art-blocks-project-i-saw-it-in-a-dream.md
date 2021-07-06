@@ -68,3 +68,12 @@ I also think there's a lot of cross-pollination going on in Art Blocks at the mo
 *I saw it in a Dream* will launch on the Art Blocks platform on July 7 at 12pm ET. Final mint size and price to be determined by artist. Check the ArtBlocks site for details.
 
 Preview the project on the [Rinkeby testnet](https://rinkeby.artblocks.io/project/30).
+
+The drop will have a 24 hour time limit with a 512 mint floor and 1024 mint ceiling @ 0.1 ETH
+
+Details:
+
+* Minting will open at 12pm EDT -- 7/7
+* If 12pm EDT -- 7/8 rolls around and the mint count is between 512 and 1024 I will close minting.
+* If the ceiling is hit before 12pm EDT -- 7/8 minting automatically will stop, as in a standard AB drop.
+* If the floor is not hit by 12pm EDT -- 7/8, then I will make 512 the new max and leave it running.
