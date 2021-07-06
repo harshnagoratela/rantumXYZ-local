@@ -10,6 +10,13 @@ excerpt: Artist behind CryptoGodKing to launch new project first week of July
   came to him one night, while in the midst of working on a larger project.
 categories:
   - category: Articles
+meta:
+  description: Artist behind CryptoGodKing to launch new project first week of
+    July 2021. The images that we see before sleep often recur in our dreams. In
+    Steve Pikelny’s upcoming project, I saw it in a Dream, he explores a vision
+    that came to him one night, while in the midst of working on a larger
+    project.
+  title: Previewing Pikelny’s 2nd Art Blocks project I Saw it in a Dream
 ---
 The images that we see before sleep often recur in our dreams. In Steve Pikelny’s upcoming project, *I saw it in a Dream*, he explores a vision that came to him one night, while in the midst of working on a larger project.
 
