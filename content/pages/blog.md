@@ -7,5 +7,5 @@ subtitle: On digital art, NFTs, DAOs, and blockchain commerce
 meta:
   description: "On digital art, NFTs, and other blockchain developments. Get info
     on non-fungible tokens, art on the blockchain, blockchain data, and more. "
-  title: Blog Page
+  title: News & Notes
 ---
