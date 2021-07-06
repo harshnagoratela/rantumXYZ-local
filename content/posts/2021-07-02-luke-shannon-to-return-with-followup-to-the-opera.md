@@ -11,6 +11,13 @@ excerpt: >
   gained a strong following among Art Blocks collectors.
 categories:
   - category: Articles
+meta:
+  title: "Luke Shannon to return with followup to The Opera "
+  description: >
+    Art Blocks artist to return in July 2021 with 2nd project. Luke Shannon, the
+    artist behind The Opera, is returning to Art Blocks Factory in late July
+    2021. The original 256 piece collection was released in early May 2021 and
+    has gained a strong following among Art Blocks collectors.
 ---
 Luke Shannon, the artist behind [The Opera](https://artblocks.io/project/50/gallery), is returning to Art Blocks Factory in late July 2021. The original 256 piece collection was released in early May 2021 and has gained a strong following among Art Blocks collectors.
 
