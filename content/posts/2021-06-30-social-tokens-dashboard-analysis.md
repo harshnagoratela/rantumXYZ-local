@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Social Tokens Dashboard & Analysis
+title: Social Tokens analysis for Forefront.news
 status: Published
 date: 2021-06-30
 featuredImage: https://ucarecdn.com/c921e76f-e6df-4443-990d-866b34bc0211/
