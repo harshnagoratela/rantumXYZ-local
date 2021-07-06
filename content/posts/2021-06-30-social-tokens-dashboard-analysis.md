@@ -15,7 +15,7 @@ meta:
     Bankless, and dozens of others, have risen dramatically in popularity over
     the past year. In just the last 6 months, wallets holding tokens tracked by
     Forefront.news have grown over 400% and it's unlikely to slow down.
-  title: "Social Tokens Dashboard & Analysis "
+  title: Social Tokens analysis for Forefront.news
 ---
 Social tokens, such as those used by communities such as [Whale](https://whale.me/), [Bankless](https://www.bankless.community/), and dozens of others, have risen dramatically in popularity over the past year. In just the last 6 months, wallets holding tokens tracked by [Forefront.news](https://forefront.news/) have grown over 400% and it's unlikely to slow down. 
 
