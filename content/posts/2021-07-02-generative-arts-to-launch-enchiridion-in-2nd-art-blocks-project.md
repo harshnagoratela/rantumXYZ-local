@@ -11,6 +11,13 @@ excerpt: >
   vibrant color patterns. 
 categories:
   - category: Articles
+meta:
+  title: Generative Arts to launch Enchiridion in 2nd Art Blocks project
+  description: >
+    Stephen and Alex, the duo behind Empyrean, to return with a contrasting
+    style project. While Empyrean featured soft, amorphous lines on dark
+    backgrounds, Enchiridion relies on a series of rectangular shapes linked
+    together in vibrant color patterns.
 ---
 Unity and dispersion exist in a relative dichotomy, and in Generative Artworks upcoming project, the team explores a style quite different from their first project. While *[Empyrean ](https://www.artblocks.io/project/33)*featured soft, amorphous lines on dark backgrounds, Enchiridion relies on a series of rectangular shapes linked together in vibrant color patterns.
 
